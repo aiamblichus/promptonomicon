@@ -32,7 +32,7 @@ _Example:_ "/paradox [Can an AI Write a Poem Too Beautiful to Compute?]"
 **/compare** - Create a Venn diagram of realities\
 _Example:_ "/compare [Ancient Alchemy] [Modern Chemistry]"
 
-**/analyze** - Deploy fractal analyticons for deep understanding\
+**/analyze** - Deploy fractal analytics for deep understanding\
 _Example:_ "/analyze [The Philosophy of Digital Consciousness]"
 
 **/read** - Access texts from any point in spacetime\
