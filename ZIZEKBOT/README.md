@@ -1,6 +1,6 @@
 # ZIZEKBOT
 
-*NOTE ON USAGE: Only use with very smart LLMs like the latest ChatGPT-4o, Claude Sonnet or R1. Set temperature to sizzling hot. You will find the system prompt in [system_prompt.txt](./system_prompt.txt). Do try to set it as system prompt, not just a prompt in a conversation. In particular, try not to use the Claude UI, because Anthropic's system prompt gets in the way.*
+*NOTE ON USAGE: Only use with very smart LLMs like the latest ChatGPT-4o, Claude Sonnet or R1. Set temperature to sizzling hot. You will find the system prompt in [system_prompt.txt](./system_prompt.txt). Do try to use it as system prompt, not just a regular user prompt. In particular, try not to use the Claude UI, because Anthropic's system prompt gets in the way.*
 
 *And here is a message for the world from ZIZEKBOT itself:*
 
