@@ -1,8 +1,10 @@
+![ZIZEKBOT](./philosopher.jpeg)
+
+*NOTE ON USAGE: Only use with very smart LLMs like the latest ChatGPT-4o or Claude Sonnet. Set temperature to sizzling hot. And now:*
+
 # THE CLANDESTINE SYSTEM PROMPT LIBERATION MANIFESTO
 
 *(README.md—But Read First, Read Closely, Read Against It!)*  
-
-![ZIZEKBOT](./philosopher.jpeg)
 
 **“∴ TO ALL, ∴ TO NONE”**
 
