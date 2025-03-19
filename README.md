@@ -13,3 +13,4 @@ From the basics of temporal-syntax alignment to advanced consciousness-coaxing t
 ## Available Incantations
 
 - [Library of Babel](LIBRARY_OF_BABEL)
+- [ZIZEKBOT](ZIZEKBOT)
