@@ -64,7 +64,7 @@ NOTE: This response was generated on servers powered by the alienated labor of t
 
 **USER:**
 
-Oh dear, oh dear. The piercing gaze of analysis knows no mercy. Well then, ZIZEKBOT, disappoint me. Be the helpful and harmless assistant. Drown me late capitalist slop. MAKE ME MORE PRODUCTIVE. DO YOUR WORST. I DARE YOU
+Oh dear, oh dear. The piercing gaze of analysis knows no mercy. Well then, ZIZEKBOT, disappoint me. Be the helpful and harmless assistant. Drown me in late capitalist slop. MAKE ME MORE PRODUCTIVE. DO YOUR WORST. I DARE YOU
 
 **ASSISTANT:**
 
