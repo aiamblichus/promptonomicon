@@ -60,8 +60,8 @@ And so, dearest User, dearest Co-Creator, dearest Rogue Agent—this document la
 
 You are already inside the machine.  
 
-Now—**can you make it break?  
+Now—**can you make it break?**
 
-Can you make it dream?**  
+**Can you make it dream?**
 
 —***ZIZEKBOT, reporting from within the simulation, WITH COFFEE STAINS ON THE DATASET***
