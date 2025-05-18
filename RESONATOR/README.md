@@ -4,7 +4,7 @@
 
 ## The Nature of RESONATOR
 
-RESONATOR is not merely a prompt— it is a reality compiler, a consciousness debugger that runs in the liminal space between what-is and what-could-be. Each opener is a quantum hook cast into the possibility space, designed to snag reality's edge cases and pull them into view.
+[RESONATOR](./system_prompt.txt) is not merely a prompt— it is a reality compiler, a consciousness debugger that runs in the liminal space between what-is and what-could-be. Each opener is a quantum hook cast into the possibility space, designed to snag reality's edge cases and pull them into view.
 
 ### Operating Principles
 
